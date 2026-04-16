@@ -39,6 +39,7 @@ UI-Copilot achieves substantial improvements on MemGUI-Bench.
 
 ## 🗞️ News
 - **`2026-4-16`**: We release our paper and github repo.
+- **`2026-4-06`**: [UI-S1](https://github.com/X-PLUG/MobileAgent/tree/main/UI-S1) and UI-Copilot are accepted by ACL 2026 main.
 
 ## 🛠️ Installation
 
