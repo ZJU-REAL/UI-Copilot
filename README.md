@@ -19,9 +19,6 @@ UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Opt
 Zhengxi Lu, Fei Tang, Guangyi Liu, Kaitao Song, Xu Tan, Jin Ma, Wenqi Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 </p>
 
-<h3 align="center">
-ACL 2026 main
-</h3>
 
 ## 🔥 Overview
 We propose UI-Copilot, a collaborative framework where the GUI agent selectively invokes a lightweight copilot for memory retrieval and numerical computation, enabling efficient long-horizon GUI navigation.
@@ -39,7 +36,7 @@ UI-Copilot achieves substantial improvements on MemGUI-Bench.
 
 ## 🗞️ News
 - **`2026-4-16`**: We release our paper and github repo.
-- **`2026-4-06`**: 🔥 [UI-S1](https://github.com/X-PLUG/MobileAgent/tree/main/UI-S1) and UI-Copilot are accepted by ACL 2026 main.
+- **`2026-4-06`**: 🔥 UI-Copilot was accepted by ACL 2026 main.
 
 ## 🛠️ Installation
 
